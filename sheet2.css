@@ -1,0 +1,87 @@
+.bande-colorée {
+    background-color: #000;
+    height: 40px;
+    /* Ajustez la hauteur selon vos besoins */
+    width: 100%;
+    /* Assurez-vous que la bande occupe toute la largeur */
+    padding: 12px;
+
+
+}
+.about-us {
+    color: #fff;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+ul li a {
+    color: #000000;
+    letter-spacing: 0.1rem;
+}
+
+ul li a:hover {
+    color: #000000;
+    text-decoration: inderline;
+}
+
+.menu li {
+    float: left;
+    padding: 35px;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+.logo-image {
+    width: 150px;
+    height: 50px;
+    scale: 1;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+    
+
+.dareljeled {
+    width: 100%;
+}
+
+.dareljeled1 {
+    width: 80% ;
+    padding: 77px ;
+}
+
+.dareljeled11 {
+    font-size: 100px;
+}
+.dareljeled9 {
+    width: 800px;
+    object-fit: cover;
+}
+.dareljeled8 {
+    width: 800px;
+}
+.dareljeled111{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+.dareljeled00 {
+    width: 100px;
+    
+}

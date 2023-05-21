@@ -1,0 +1,78 @@
+.bande-colorée {
+    background-color: #000;
+    height: 40px;
+    /* Ajustez la hauteur selon vos besoins */
+    width: 100%;
+    /* Assurez-vous que la bande occupe toute la largeur */
+    padding: 12px;
+
+
+}
+.about-us {
+    color: #fff;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+ul li a {
+    color: #000000;
+    letter-spacing: 0.1rem;
+}
+
+ul li a:hover {
+    color: #000000;
+    text-decoration: inderline;
+}
+
+.menu li {
+    float: left;
+    padding: 35px;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+.logo-image {
+    width: 150px;
+    height: 50px;
+    scale: 1;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutus1 {
+    width: 1285px;
+    height: 468px;
+    margin-bottom: 300px;
+}
+.ourvalues {
+    color:#E6E4B1 ;
+    font-size: 80px;
+    
+}
+.imagess1{
+    width: 385px;
+}
+.imagess2{
+    width: 385px;
+}
+.imagess3{
+    width: 385px;
+}
+.texte1{
+    width: 385px;
+}
